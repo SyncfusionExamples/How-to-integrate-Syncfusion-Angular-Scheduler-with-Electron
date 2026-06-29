@@ -1,7 +1,6 @@
 # Angular-Electron Integration with Syncfusion Scheduler
 
-## Project Overview
-This project is a desktop application powered by Electron and Angular, featuring the Syncfusion Scheduler for event‑management capabilities. It delivers a full desktop experience with multi‑view scheduling, and built‑in CRUD actions. This integration demonstrates how to seamlessly combine Angular with Electron to create a robust cross-platform desktop scheduling solution with enterprise-grade features.
+This project is a desktop application built with Electron and Angular, integrating [Angular Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler) for advanced event management capabilities. It delivers a full desktop experience with multi-view scheduling and built-in CRUD operations. This implementation demonstrates how to seamlessly combine Angular with Electron to create a robust, cross-platform desktop solution using the Angular Scheduler with enterprise-grade scheduling features.
 
 ## Features
 - **Multi-View Scheduling:** Support for various calendar views including day, week, month, and agenda views
